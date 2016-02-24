@@ -20,7 +20,7 @@ User must sign in to check out
     wait until page contains  Cart subtotal
     wait until page contains  (1 item):
     click link  Proceed to checkout (1 item)
-    element should be visible  id=signInSubmit1  Sign in
+    element should be visible  id=signInSubmit  Sign in
     Close browser
 
 *** Keywords ***
